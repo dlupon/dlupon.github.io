@@ -12,6 +12,7 @@ There is two ways to interpolate the rotation of a transform :
 - `UBTween`.[ExactRotation](https://github.com/dlupon/UBTweening/wiki/Rotation#exactrotation-) will be able to make rotation of more than 180d.
 
 # Supported Objects:
+
 | Target  | Value changed (Ref Global) | Value changed (Ref Local)|
 | ------------- | ------------- | ------------- |
 | `Transform`  | `Transform.rotation`  | `Transform.localRotation`  |
