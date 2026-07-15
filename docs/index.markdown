@@ -5,4 +5,10 @@
 layout: home
 ---
 
-Hello my name is Dylan. Sometime i make tools for my games, and i like to share my work so this site will give you all the details on how my stuff works !
+# Hello World !
+
+My name is Dylan. Sometime i make tools for my games, and i like to share my work so this site will give you all the details on how my stuff works !
+
+> Note that this site is still under constructions so it might seems a bit empty for the moment.    
+
+# :)

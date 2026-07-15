@@ -5,9 +5,8 @@ parent: UBTools
 
 <img alt="UBTweening" src="https://github.com/user-attachments/assets/db7a3a4a-d8d3-426e-8118-e35c951a3f93" />
 
-# UnBocal Tweening System
-v1.0
-{: .label .label-blue }
+# UnBocal Tweening System ![Static Badge](https://img.shields.io/badge/version-1.0.0-blue)
+
 
 # The wiki is still under construction
 
