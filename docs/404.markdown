@@ -10,7 +10,7 @@ Are you lost ?
 
 You can go back to the rest of the site by clicking this button :
 
-[Get Back To The Site](/Home){: .btn .btn-green }
+[Get Back To The Site](/){: .btn .btn-green }
 
 Or you can see my last game on steam :)
 
