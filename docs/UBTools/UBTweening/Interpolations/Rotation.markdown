@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  Rotation
-parent: UBTweening
+parent: Interpolations
 nav_order: 1
 ---
 

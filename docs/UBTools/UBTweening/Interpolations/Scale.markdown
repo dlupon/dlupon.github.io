@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  Scale
-parent: UBTweening
+parent: Interpolations
 nav_order: 2
 ---
 

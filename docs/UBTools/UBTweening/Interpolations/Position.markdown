@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  Position
-parent: UBTweening
+parent: Interpolations
 nav_order: 0
 ---
 
