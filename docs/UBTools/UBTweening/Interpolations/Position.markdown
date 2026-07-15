@@ -4,7 +4,7 @@ parent: Interpolations
 nav_order: 0
 ---
 
-![Position](https://github.com/user-attachments/assets/f5c45999-fa11-49e5-a842-812702f93520)
+![Position](.\Assets\Position.gif)
 
 `UBTween.Position` interpolates the position of an object.
 
@@ -15,8 +15,10 @@ nav_order: 0
 | `Transform`  | `Transform.position`  | `Transform.localPosition`  |
 | `RectTransform`  | `RectTransform.position` | `RectTransform.localPosition`  |
 
-***
-<br>
+
+
+
+
 
 # Use Current Position As Start :
 ``` cs
@@ -25,10 +27,12 @@ UBTween.Position(
     new Vector3(0f, 1f, 0f),    // End Position
     1f);                        // Duration
 ```
-![PositionCurrentToUp](https://github.com/user-attachments/assets/83dbe49d-2f0f-4c2c-b465-0a8553fed969)
+![Position](.\Assets\Position0.gif)
 
-***
-<br>
+
+
+
+
 
 # Specify Start Position :
 ``` cs
@@ -38,11 +42,12 @@ UBTween.Position(
     new Vector3(1f, .5f, 0f),   // End Position
     1f);                        // Duration
 ```
-![PositionLeftToRight](https://github.com/user-attachments/assets/62916863-8ef3-4df0-8cdf-28395ede546d)
+![Position](.\Assets\Position1.gif)
 
 
-***
-<br>
+
+
+
 
 # Referencial:
 It's possible to whether translate the local position or the global position by using the `Ref` Enum.
@@ -52,6 +57,11 @@ It's possible to whether translate the local position or the global position by 
 | `Transform`  | `Transform.position`  | `Transform.localPosition`  |
 | `RectTransform`  | `RectTransform.position` | `RectTransform.localPosition`  |
 
+
+
+
+
+
 ### From Current
 ``` cs
 UBTween.Position(
@@ -60,6 +70,11 @@ UBTween.Position(
     1f,                         // Duration
     Ref.Global);                // Ref
 ```
+
+
+
+
+
 
 ### From Specific Start
 ``` cs
@@ -72,8 +87,9 @@ UBTween.Position(
 ```
 
 
-***
-<br>
+
+
+
 
 # Gif Code :
 ``` cs

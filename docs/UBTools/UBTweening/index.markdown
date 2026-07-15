@@ -7,8 +7,6 @@ redirect_from:
   - /articles/getting-started-with-github-for-windows/
 ---
 
-hey
-
 <img alt="UBTweening" src="https://github.com/user-attachments/assets/db7a3a4a-d8d3-426e-8118-e35c951a3f93" />
 
 # UnBocal Tweening System ![Static Badge](https://img.shields.io/badge/version-1.0.0-blue) 
@@ -18,7 +16,7 @@ Made by **UnBocal** - **LUPON Dylan**
 
 **Unity 2022.3.62f2 or greater.**
 
-*Small tweening system made for Unity inspired by [**DoTween**](https://dotween.demigiant.com/documentation.php)* and the [**Ama Motion Automatiser**](https://github.com/TasDeNeige/AmaMotionAutomatiser).
+*Small tweening system made for Unity inspired by [**DoTween**](https://dotween.demigiant.com/documentation.php) and the [**Ama Motion Automatiser**](https://github.com/TasDeNeige/AmaMotionAutomatiser).*
 
 {: .important}
 > The wiki is still under construction

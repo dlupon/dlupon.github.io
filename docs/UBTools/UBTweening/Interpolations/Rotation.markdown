@@ -4,7 +4,7 @@ parent: Interpolations
 nav_order: 1
 ---
 
-![Rotation](https://github.com/user-attachments/assets/560e9f1a-e785-49c3-9fad-7555316c2296)
+![Rotation](.\Assets\Rotation.gif)
 
 There is two ways to interpolate the rotation of a transform :
 - `UBTween`.[Rotation](https://github.com/dlupon/UBTweening/wiki/Rotation#Rotation) will take the shorstest path to the target Rotation. It's not possible to make roation of more than 180d.
@@ -17,8 +17,10 @@ There is two ways to interpolate the rotation of a transform :
 | `Transform`  | `Transform.rotation`  | `Transform.localRotation`  |
 | `RectTransform`  | `RectTransform.rotation` | `RectTransform.localRotation`  |
 
-***
-<br>
+
+
+
+
 
 # Rotation
 
@@ -37,12 +39,11 @@ UBTween.Rotation(
     1f);        // Duration
 ```
 
-![Rotation 90 To -90](https://github.com/user-attachments/assets/274026be-8a24-4bed-9caa-4a600025e5a1)
-
-***
+![Rotation 90 To -90](.\Assets\Rotation0.gif)
 
 
-<br>
+
+
 
 ## Specify Start Rotation :
 ```cs
@@ -61,8 +62,10 @@ UBTween.Rotation(
     1f);            // Duration
 ```
 
-***
-<br>
+
+
+
+
 
 # ExactRotation :
 
@@ -83,8 +86,10 @@ UBTween.ExactRotation(
     1f);            // Duration
 ```
 
-***
-<br>
+
+
+
+
 
 # Referencial :
 It's possible to whether translate the local rotation or the global position by using the `Ref` Enum.
@@ -94,6 +99,11 @@ It's possible to whether translate the local rotation or the global position by 
 | `Transform`  | `Transform.position`  | `Transform.localPosition`  |
 | `RectTransform`  | `RectTransform.position` | `RectTransform.localPosition`  |
 
+
+
+
+
+
 ### From Current
 ``` cs
 UBTween.Position(
@@ -102,6 +112,11 @@ UBTween.Position(
     1f,                         // Duration
     Ref.Global);                // Ref
 ```
+
+
+
+
+
 
 ### From Specific Start
 ``` cs
@@ -114,8 +129,9 @@ UBTween.Position(
 ```
 
 
-***
-<br>
+
+
+
 
 # Gif Code :
 ``` cs
