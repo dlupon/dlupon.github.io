@@ -39,7 +39,7 @@ UBTween.Rotation(
     1f);        // Duration
 ```
 
-![Rotation 90 To -90](.\Assets\Rotation0.gif)
+![[Rotation_0]](.\Assets\Rotation_0.gif)
 
 
 

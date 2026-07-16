@@ -4,7 +4,7 @@ parent: Interpolations
 nav_order: 2
 ---
 
-![Scaling](.\Assets\Scaling.gif)
+![Scale](.\Assets\Scale.gif)
 
 
 `UBTween.Scale` interpolates the scale of an object.
@@ -37,7 +37,7 @@ UBTween.Scale(
     1f);        // Duration
 ```
 
-![Scaling](.\Assets\Scaling0.gif)
+![Scale_0](.\Assets\Scale_0.gif)
 
 
 
@@ -62,7 +62,7 @@ UBTween.Scale(
     1f);        // Duration
 ```
 
-![Scaling](.\Assets\Scaling1.gif)
+![Scale_0](.\Assets\Scale_1.gif)
 
 
 

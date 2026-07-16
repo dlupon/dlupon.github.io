@@ -27,7 +27,7 @@ UBTween.Position(
     new Vector3(0f, 1f, 0f),    // End Position
     1f);                        // Duration
 ```
-![Position](.\Assets\Position0.gif)
+![Position](.\Assets\Position_0.gif)
 
 
 
@@ -42,7 +42,7 @@ UBTween.Position(
     new Vector3(1f, .5f, 0f),   // End Position
     1f);                        // Duration
 ```
-![Position](.\Assets\Position1.gif)
+![Position](.\Assets\Position_1.gif)
 
 
 
