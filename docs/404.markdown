@@ -4,7 +4,7 @@ permalink: /404
 nav_exclude: true
 ---
 
-# OOPS
+# OOPS !
 
 Are you lost ?
 
@@ -12,6 +12,6 @@ You can go back to the rest of the site by clicking this button :
 
 [Get Back To The Site](/){: .btn .btn-green }
 
-Or you can see my last game on steam :)
+Or you can go try my last game on steam :)
 
 <iframe src="https://store.steampowered.com/widget/4456300/" frameborder="0" width="646" height="190"></iframe> 
